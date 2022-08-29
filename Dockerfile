@@ -10,6 +10,6 @@ FROM scratch
 
 WORKDIR /app
 
-COPY --from=builder ./app/hello .
+COPY --from=builder ./app .
 
 CMD ["./hello"]
