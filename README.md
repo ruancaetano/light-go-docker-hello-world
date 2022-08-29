@@ -1,4 +1,6 @@
-# Light go hello world image
+# Light GoLang docker hello world image
+
+[Docker hub link](https://hub.docker.com/repository/docker/ruancaetano/light-go-hello-world)
 
 ## Problem
 
@@ -21,6 +23,4 @@ With strategy
 ```
 ruancaetano/light-go-hello-world   latest    5f0542747f65   10 minutes ago      1.82MB
 ```
-
-[Docker hub link](https://hub.docker.com/repository/docker/ruancaetano/light-go-hello-world)
 
